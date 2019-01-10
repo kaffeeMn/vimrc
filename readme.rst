@@ -17,4 +17,4 @@ You type
 
     ./set_up.zsh
 
-into your console in this very directory and you are golden.
+into your console, in this very directory, and you are golden.
